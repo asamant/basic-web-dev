@@ -1,0 +1,41 @@
+h1 {
+    color: brown;
+}
+
+body {
+    background-color: cadetblue;
+    font: outline;
+}
+
+.container{
+    width: 50%;
+    margin: auto;
+}
+
+.box-1{
+    background-color: #333333;
+    color: chartreuse;
+
+    border: crimson solid;
+    border-width: 4px; 
+}
+
+.box-2{
+    background-color: #666666;
+    color: blue;
+
+    border: black solid;
+    border-width: 5px;
+
+    word-spacing: 1em; 
+}
+
+.liststyle{
+    border: tomato solid;
+    padding-top: 10%;
+}
+
+.liststyle h2{
+    font-size: 1em;
+    font-family: 'Courier New', Courier, monospace;
+}
